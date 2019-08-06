@@ -1,0 +1,36 @@
+#exCollapsingNavbar2 {
+    background-color: #023541;
+}
+
+
+
+.nav-link {
+    color: white !important;
+}
+
+
+.boxes {
+    height: 120px;
+}
+
+
+.box-text {
+    font-size: 0.75rem;
+}
+
+.row.crow {
+    height: 500px;
+}
+
+.col-6, .carousel-inner, .carousel-item, #carouselExampleIndicators {
+    height: 100%;
+}
+
+.carousel-item img {
+    height: 100%;
+    width: 100%;
+}
+
+.embed-responsive-16by9 {
+    margin-bottom: 10px;
+}
